@@ -27,7 +27,11 @@ npm test
 # References
 
 <https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html>
+
 <https://thebookofshaders.com/07/>
+
 <https://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/>
+
 <https://stackoverflow.com/questions/29982228/how-to-apply-gravity-to-bouncing-balls-in-javascript]>
+
 <https://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/>
